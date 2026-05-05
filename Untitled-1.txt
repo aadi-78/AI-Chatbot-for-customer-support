@@ -1,0 +1,4 @@
+name="pritam"
+age="23"
+price="34"
+print(age)
